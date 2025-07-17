@@ -204,10 +204,6 @@ python -m pytest --cov=src
 - **Resource optimization** to minimize compute usage
 - **Green hosting** compatibility
 
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### **Development Setup**
 ```bash
 # Install development dependencies
@@ -220,13 +216,6 @@ pre-commit install
 black .
 flake8 src/
 ```
-
-## 📚 **Documentation**
-
-- **API Documentation**: Available at `/docs` endpoint
-- **User Guide**: [docs/user-guide.md](docs/user-guide.md)
-- **Developer Guide**: [docs/developer-guide.md](docs/developer-guide.md)
-- **Deployment Guide**: [docs/deployment.md](docs/deployment.md)
 
 ## 🚀 **Deployment**
 
@@ -258,9 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Support**
 
-- **Email**: support@ecotransparency.com
-- **Issues**: [GitHub Issues](https://github.com/Vala412/EcoTransparency-Platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Vala412/EcoTransparency-Platform/discussions)
+- **Email**: vatsalvala46@gmail.com
 
 ---
 
